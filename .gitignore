@@ -1,0 +1,12 @@
+target/
+.DS_Store
+.idea/
+*.iml
+_site
+.sass-cache
+/.classpath
+/.project
+.settings
+Gemfile.lock
+ajcore*
+.jekyll-cache/

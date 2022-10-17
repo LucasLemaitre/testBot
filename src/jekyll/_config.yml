@@ -1,0 +1,15 @@
+name: doc.rultor.com
+markdown: kramdown
+permalink: :title.html
+sass:
+  style: compressed
+  deploy_style: compressed
+  compile_in_place: false
+sitemap:
+  file: "/sitemap.xml"
+  exclude:
+    - "/rss.xml"
+  include_posts:
+    - "/index.html"
+  change_frequency_name: "change_frequence"
+  priority_name: "priority"
