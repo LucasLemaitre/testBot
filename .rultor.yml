@@ -1,5 +1,5 @@
 docker:
-  image: yegor256/rultor-image:1.13.0
+  image: lulemaitre/getting-started
 readers:
   - "urn:github:526301"
 assets:
